@@ -10,5 +10,6 @@ public class HelloGit {
 	   System.out.println("Hello GitHub ,收到第二次请求啦啦");
 	   System.out.println("Hello GitHub ,收到第三次请求啦啦");
 	   System.out.println("查看哪个新");
+	   System.out.println("查看哪个新22222");
    }
 }
